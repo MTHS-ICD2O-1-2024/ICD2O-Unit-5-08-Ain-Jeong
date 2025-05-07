@@ -14,17 +14,17 @@ function doDivision () {
   let counter = 0
 
   // input
-  let dividend = parseFloat(document.getElementById('dividend-number').value)
-  const divisor = parseFloat(
+  let dividendNumber = parseFloat(document.getElementById('dividend-number').value)
+  const divisorNumber = parseFloat(
     document.getElementById('divisor-number').value
   )
 
   // process
-  while (dividend >= divisor) {
-    dividend -= divisor;
+  while (dividendNumber >= divisorNumber) {
+    dividendNumber -= divisorNumber;
     counter++;
   }
 
   // output
-  document.getElementById('answer').innerHTML = 'Your answer is: ' + counter + ' and ' + dividend + '/' + divisor
+  document.getElementById('answer').innerHTML = 'Your answer is: ' + counter + ' and ' + dividendNumber + '/' + divisorNumber
 }
