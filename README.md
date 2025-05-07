@@ -1,13 +1,8 @@
 # ICS2O ⇢ Unit #5-08
 
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19458222)
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-5-08-ain-jeong/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-5-08-ain-jeong/actions)
 
-[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-5-08-Ain-Jeong/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-5-08-Ain-Jeong/actions)
-
-[![Deploy Pages](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-5-08-Ain-Jeong/workflows/Deploy%20Pages/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-5-08-Ain-Jeong/actions)
-
-This site can be found at: [https://MTHS-ICD2O-1-2024.github.io/ICD2O-Unit-5-08-Ain-Jeong](https://MTHS-ICD2O-1-2024.github.io/ICD2O-Unit-5-08-Ain-Jeong)
-
+This site can be found at: [https:/https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/Unit-5/ICD2O-Unit-5-08-Ain-Jeong/](https:/https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/Unit-5/ICD2O-Unit-5-08-Ain-Jeong/)
 ---
 
 **NOTES ON INITIAL LOAD:**
