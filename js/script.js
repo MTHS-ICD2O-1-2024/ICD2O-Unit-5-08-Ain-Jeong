@@ -22,7 +22,7 @@ function doDivision () {
   )
 
   // process
-  while (firstNumber >= counter) {
+  while (firstNumber >= secondNumber) {
     firstNumber -= secondNumber
     counter++
 
